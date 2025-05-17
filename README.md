@@ -60,16 +60,27 @@ Skyrim Dragonis — это:
 > **❗ Версия игры должна быть Skyrim SE 1.5.9.7**
 
 1. Установи [Visual C++ x64](https://www.google.com/url?q=https://aka.ms/vs/17/release/vc_redist.x64.exe&sa=D&source=apps-viewer-frontend&ust=1747577032857260&usg=AOvVaw3JcGVecx-5MTLF8ZnX80ih&hl=ru)
+ 
 2. Установи [.NET Runtime v5 Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
+ 
 3. Установи **7-Zip** (⚠️ **НЕ** WinRAR)
+
 4. Скачай **все 58 архивов** из [Telegram-канала](https://t.me/skyrimdragonis)
+   
 5. Распакуй их все вместе (желательно на диск **C:**)
+    
 6. После распаковки должна появиться папка `SkyrimDragonis`
+    
 7. Зайди в эту папку и запусти `ModOrganizer.exe`
+    
 8. Если Skyrim установлен по пути `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition` — просто выбери профайл **SkyrimDragonis** и нажми **Play**
-9. Если нет — нажми на кнопку "Изменить" справа сверху и укажи путь:  
+    
+9. Если нет — нажми на кнопку "Изменить" справа сверху и укажи путь:
+    
    `C:\SkyrimDragonis\mods\SKSE\Root\skse64_loader.exe`
+
 10. Запускай через SKSE
+    
 
 > ⚠️ Сборка протестирована только на **лицензионной версии** Skyrim SE 1.5.9.7  
 > ❌ Работа на пиратке НЕ гарантируется!
