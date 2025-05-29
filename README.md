@@ -15,7 +15,8 @@ Skyrim Dragonis — это:
 
 ---
 
-## 🌞 Плюсы
+## ![ПЛЮСЫ](https://github.com/user-attachments/assets/d41ed4b4-2fba-4a03-a835-15993909f9e9)
+
 
 <details>
 <summary>Показать</summary>
@@ -40,7 +41,8 @@ Skyrim Dragonis — это:
 
 ---
 
-## ⚠️ Важно
+## ![ВАЖНО](https://github.com/user-attachments/assets/11f4d2ff-1139-43a3-860b-6183a467c269)
+
 
 <details>
 <summary>Показать</summary>
@@ -55,7 +57,8 @@ Skyrim Dragonis — это:
 
 ---
 
-## 💻 Рекомендуемые системные требования
+## ![ТРЕБОВАНИЯ](https://github.com/user-attachments/assets/60be4704-f14e-44f6-a796-8e14681aae81)
+
 
 <details>
 <summary>Показать</summary>
@@ -93,7 +96,8 @@ Skyrim Dragonis — это:
 
 ---
 
-## 🛠️ Установка
+## ![УСТАНОВКА](https://github.com/user-attachments/assets/ee60ca77-d606-4410-b3af-c07f3020943a)
+
 
 <details>
 <summary>Показать</summary>
@@ -119,7 +123,8 @@ Skyrim Dragonis — это:
 
 ---
 
-## ❓ FAQ
+## ![FAQ](https://github.com/user-attachments/assets/74b2c3a8-1133-43bc-9e0f-7bbbff549ca9)
+
 
 <details>
 <summary>Показать</summary>
