@@ -108,17 +108,18 @@
 
 > ❗ Требуется версия игры: **Skyrim SE 1.5.9.7**
 
+И желательно отключи все антивирусы, потому что он может удалить SKSE
+
 1. Установи [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 2. Установи [.NET Runtime 8.0.5 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)  
 3. Установи **7-Zip** (**НЕ** WinRAR)  
-4. Скачай **все 58 архивов** из [Telegram-канала](https://t.me/skyrimdragonis)  
-5. Распакуй в одну папку (лучше на диск **C:**)  
-6. Откроется папка `SkyrimDragonis`  
-7. Запусти `ModOrganizer.exe`  
-8. Если игра установлена по пути `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition`, выбери профиль **SkyrimDragonis** и нажми **Play**  
-9. Иначе — укажи путь:  
-   `C:\SkyrimDragonis\mods\SKSE\Root\skse64_loader.exe`  
-10. Запускай игру через SKSE  
+4. Скачай архив отсюда - НЕ ЗАБЫТЬ ДОБАВИТЬ ССЫЛКУ
+5. Распакуй на SSD и желательно прямо на диск C:
+6. После распаковки у тебя будет папка Skyrim Dragonis  
+7. Запусти `ModOrganizer.exe` в этой папке  
+8. Если установил не прямо в диск C: то нужно будет поменять пути -> в верхней панели нажми шестерёнку -> Пути -> Там поменяй путь к папке со сборкой -> Нажми ок
+9. Тоже самое делаем и с SKSE -> Нажми в правом верхнем углу на Skyrim Dragonis (или другую программу, которая там может стоять) -> У тебя откроется окошко в котором нужно нажать три точки -> Укажи путь для Skyrim Dragonis ( Skyrim Dragonis/mods/SKSE/root/skse64_loader.exe
+10. Сохраняй и жми играть.
 
 > ❌ Сборка не тестировалась на пиратках. Только лицензия!
 
