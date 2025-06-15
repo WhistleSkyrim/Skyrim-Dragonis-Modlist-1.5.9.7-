@@ -113,7 +113,7 @@
 1. Установи [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 2. Установи [.NET Runtime 8.0.5 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)  
 3. Установи **7-Zip** (**НЕ** WinRAR)  
-4. Скачай архив отсюда – **НЕ ЗАБЫТЬ ДОБАВИТЬ ССЫЛКУ**
+4. Скачай архив отсюда – **[ЖМАКАЙ СЮДА](https://boosty.to/whistle/posts/b0f37679-8f40-4efb-b527-04282b31df35?share=post_link)**
 5. Распакуй на SSD и желательно прямо на диск C:
 6. После распаковки у тебя будет папка **Skyrim Dragonis**
 7. Запусти `ModOrganizer.exe` в этой папке  
