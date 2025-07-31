@@ -133,7 +133,11 @@
 <details>
 <summary><strong>Шаг 2</strong></summary>
 
-Установи [.NET Runtime 8.0.5 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)
+Установи [.NET Runtime 8.0.5 x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.5-windows-x64-installer)      
+
+Установи [.NET Runtime v6](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer)      
+
+Установи [.NET Runtime v9](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.6-windows-x64-installer)      
 
 </details>
 
