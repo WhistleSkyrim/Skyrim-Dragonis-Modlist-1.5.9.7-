@@ -139,6 +139,8 @@
 
 Установи [.NET Runtime v9](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-9.0.6-windows-x64-installer)      
 
+После чего **ОБЯЗАТЕЛЬНО** перезагрузи компьютер
+
 </details>
 
 <details>
