@@ -156,14 +156,14 @@
 <details>
 <summary><strong>Шаг 4</strong></summary>
 
-Скачай архив отсюда – **[ЖМАКАЙ СЮДА](https://boosty.to/whistle/posts/b0f37679-8f40-4efb-b527-04282b31df35?share=post_link)**
+Скачай архивы отсюда – **[ЖМАКАЙ СЮДА](https://boosty.to/whistle/posts/b0f37679-8f40-4efb-b527-04282b31df35?share=post_link)**
 
 </details>
 
 <details>
 <summary><strong>Шаг 5</strong></summary>
 
-Распакуй на **SSD**
+Нажми на первый архив и распакуй его (все остальные должны быть уже скачены) на **SSD**
 
 </details>
 
