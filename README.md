@@ -1,4 +1,4 @@
-# 🐉 Skyrim Dragonis Modlist
+# 🐉 Skyrim Dragonis - современная фэнтези сборка
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/91a75ea5-3fba-410c-958d-6fcc8ee5ca24" alt="Skyrim Dragonis" />
@@ -345,7 +345,11 @@
 5. **Как настроить DLSS под себя или что делать если крашит игра с DLSS**      
    ➤ Игра может вылетать, если вы играете не на RTX видеокарте.Для этого:      
    ➤ Найдите SkyrimUpscaler.ini по этому пути **C:\SkyrimDragonis\mods\SkyrimUpscalerDLSS\SKSE\Plugins**      
-   ➤ Откройте SkyrimUpscaler.ini и поменяйте **mUpscaleType** и **mQualityLevel** под свои нужды      
+   ➤ Откройте SkyrimUpscaler.ini и поменяйте **mUpscaleType** и **mQualityLevel** под свои нужды        
+
+6. **Где найти крашлог?**
+   ➤ Крашлог можно найти по такому пути
+        C:\Users\dodik2006\Documents\My Games\Skyrim Special Edition\SKSE
 
 </details>
 
