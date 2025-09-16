@@ -324,7 +324,7 @@
    ЖМАК - [1 архив](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=60265&nmm=1)        
    ЖМАК - [2 архив](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=60268&nmm=1)            
 
-   Распакуй их в папку - **ТВОЙ ПУТЬ\SkyrimDragonis\mods\Unofficial High Definition Audio Project**      
+   Распакуй их в папку перед этим удалив старые файлы которые там лежали - **ТВОЙ ПУТЬ\SkyrimDragonis\mods\Unofficial High Definition Audio Project**      
 
 3. **Поддержка 21:9 и 32:9 мониторов?**      
    ➤ Да, просто включи её в самом низу в МО2      
