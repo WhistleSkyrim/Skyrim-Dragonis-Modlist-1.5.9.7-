@@ -336,7 +336,7 @@
 
 7. **Где найти крашлог?**
    ➤ Крашлог можно найти по такому пути
-        C:\Users\dodik2006\Documents\My Games\Skyrim Special Edition\SKSE
+        C:\Users\**Твой Пользователь**\Documents\My Games\Skyrim Special Edition\SKSE
 
 </details>
 
