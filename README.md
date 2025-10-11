@@ -1,7 +1,8 @@
 # 🐉 Skyrim Dragonis - современная фэнтези сборка
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/91a75ea5-3fba-410c-958d-6fcc8ee5ca24" alt="Skyrim Dragonis" />
+  
+  <img src="https://github.com/user-attachments/assets/907688e9-62b8-400f-8a58-03db040b6c72" />
 </p>
 
 ---
