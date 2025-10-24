@@ -197,6 +197,8 @@
   `Skyrim Dragonis/mods/SKSE/root/skse64_loader.exe`  
   <br><img width="1143" height="495" alt="ModOrganizer_fwuaZ53v6d" src="https://github.com/user-attachments/assets/8340e1a3-3916-4a58-9f44-8bc0c3d3969f" />
 
+  **И ОБЯЗАТЕЛЬНО ПРОВЕРЬТЕ ВКЛЮЧЕНЫ ЛИ У ВАС ВСЕ ПЛАГИНЫ В ПРАВОМ ОКНЕ МО2. ЕСЛИ НЕТ ТО ОБЯЗАТЕЛЬНО ВКЛЮЧИТЕ**
+
 </details>
 
 <details>
