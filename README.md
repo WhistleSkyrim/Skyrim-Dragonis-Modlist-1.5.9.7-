@@ -248,7 +248,7 @@
    ➤ Напиши на **Boosty** или в **Telegram**  
 
 5. **MO2 не видит SKSE?**  
-   ➤ Переустанови [SKSE](https://skse.silverlock.org/beta/skse64_2_00_20.7z) — положи его в `SkyrimDragonis/mods/SKSE/Root/`  
+   ➤ Переустанови [SKSE](https://skse.silverlock.org/beta/skse64_2_02_06.7z) — положи его в `SkyrimDragonis/mods/SKSE/Root/`  
 
 6. **Фиолетовая карта или дыры в дорогах?**  
    ➤ Отсортируй все моды через **LOOT** (желтый сундук)
